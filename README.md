@@ -1,7 +1,7 @@
 # minideck
 A Combinatorial Multitool for Minimal Card Games
 
-Full explanation forthcoming.
+Full explanation [in blogpost](https://beast.blot.im/the-minideck).
 
 # Sources
 The font is [Miso][miso], which I chose for its elegance and compactness.
